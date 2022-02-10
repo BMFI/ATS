@@ -24,6 +24,10 @@ determine what is the problem if any?
 Use the science method for trouble shooting or dianostics. You can find the 7 steps for science method in the ATS Wiki.
 Document everything you do for future reference.
 
+When I was younger in the 1970's we had video games like pong. The first Apple computer came in 1976, then the commodor 64 and my first computer was a radio shack Coco(color computer) that was before the first 186. Going back further the old FCT systems I worked around were either relay and electronic machines or tube and relay machines before the transister took over. Same of the primitive computers were configured with huge jumper cables that were pluged in, to configur circuits.There were the IBM reel to reel tape storage machines, and my old Coco used casset tape's for storage I wrote a banking program on it with basic programing that was befor MSDos and back in the day's or DOS Disk operating system Windows was not invented yet and Bill Gates worked in New Mexico with his partner or comrade. I had a cool Saxxon video game I used to play on my Coco.
+
+The telephone system's I worked on were relay switches and electronic boards with capacitors, relay's and some transistor technology with some 4 bit microprocessors. I also had the opprotunity to take an Atari 186 and solder piggy-backed the ram on the motherboard and hot wired the power and ground to the microprocessor plus overclocked the xtel crystal clock with a faster xtel crystal clock and presto the first 286 created that I ever saw in 1987.I have worked on and repaired a lot of electronic stuff including, Amplifiers, Computers, Industrial Robots and Telephone Switches, Routers and Systems including Cassete decks or players, radios wireless Telephones and Answering machines, besides VCR Machines and Automotive electrical systems . . .
+
 Warrant disclaimer:This page is subject to update, change or upgrade soon.
 
 Anyone or any organization can use the BFMI agreement, so just copy and paste it in or on your code, program, or work or works. For instance:
@@ -32,5 +36,5 @@ BMFI valid binding permanent arbitration agreement and warranty disclaimer: You 
 
 Special note:Append the agreement for ATS(Advanced Teaching Systems) Methodology by Jeff T. Rogers founder(BMFI-Advanced Teaching Systems), so- cite your references when you use this code or risk getting it for Academic Dishonesty.
 
-Also I do not plagiarize APA, MLM or MLA style sheets or any other style sheets not mentioned, so all Style for references and writing are Using only BMFI StyleSheet for Computer Science.
+Also I do not plagiarize APA, MLM or MLA style sheets or any other style sheets not mentioned, so all Style for references and writing are Using only BMFI StyleSheet for Computer Science. So, APA, MLM and MLA style or any other style not mentioned have been officially deprecated.
 
