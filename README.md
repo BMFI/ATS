@@ -9,7 +9,7 @@ Interview the user and gather as much information as you can about the person, c
 
 Another time, I had a laptop infected with RedLof and I started it in safe mode to the CMD and restored it to a time before it was infected and I still have the old machine today. using CMD-C:> rstrui.exe
 
-Always treat your clients, customers, students, partners and other persons with courtesy, honesty and respect.
+Always treat your clients, customers, students, partners and other persons with courtesy, dignity, honesty and respect.
 Do not just tear into the person, code or machine to repair. Do some research about your observation and tests and look for the easiest and less invasive fix and obtain informed consent in writing from the owner or guardian before any alteration or repair is done. Make sure they understand the risk.For example, a drinking straw was used on the lap top to unclog the dust in the cooling fan without taking it apart.
 I had a Dell t3600 I purchased as a bad machine and opened it up and there was a pound of dust in it. I put on my ground braclet and got my shop vacuum and vacuumed it out and cleaned it up, also I upgraded the Ram from 16GB to 64GB I am still using it today.
 
@@ -21,7 +21,7 @@ most techical assistance persons for all sofware said,"I can not help you are wo
 If you are looking at it and do not know what is wrong or why it doe's not work properly either set it aside forget about it and look at it tommorrow and if you determine you do not know? Ask a friend or some person you trust to test and measure the person, code or machine to try and
 determine what is the problem if any?
 
-Use the science ritual for testing.
+Use the science method for trouble shooting or dianostics. You can find the 7 steps for science method in the ATS Wiki.
 Document everything you do for future reference.
 
 Warrant disclaimer:This page is subject to update, change or upgrade soon.
