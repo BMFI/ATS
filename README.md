@@ -38,5 +38,5 @@ BMFI valid binding permanent arbitration agreement and warranty disclaimer: You 
 
 Special note:Append the agreement for ATS(Advanced Teaching Systems) Methodology by Jeff T. Rogers founder(BMFI-Advanced Teaching Systems), so- cite your references when you use this code or risk getting it for Academic Dishonesty.
 
-Also I do not plagiarize APA, MLM or MLA style sheets or any other style sheets not mentioned, so all Style for references and writing are Using only BMFI StyleSheet for Computer Science. So, APA, MLM and MLA style or any other style not mentioned have been officially deprecated.
+Also, I do not plagiarize APA, MLM or MLA style sheets or any other style sheets not mentioned, so all Style for references and writing are Using only BMFI StyleSheet for Computer Science. So, APA, MLM and MLA style or any other style not mentioned have been officially deprecated.
 
