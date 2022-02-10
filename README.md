@@ -28,6 +28,8 @@ When I was younger in the 1970's we had video games like pong. The first Apple c
 
 The telephone system's I worked on were relay switches and electronic boards with capacitors, relay's and some transistor technology with some 4 bit  and 8 bit microprocessors. They were jst starting to produce speach path circuits, voice recognition and lie detection using microprocessors. I also had the opprotunity to take an Atari 186 and solder piggy-backed the ram on the motherboard and hot wired the power and ground to the microprocessor plus overclocked the xtel crystal clock with a faster xtel crystal clock and presto the first 286 created that I ever saw in 1987.I have worked on and repaired a lot of electronic stuff including, Amplifiers, Computers, Drcon butt set's, Industrial Robots and Telephone Switches, Routers and System's including Cassete decks or players, radios, wireless Telephones and Answering machines, besides VCR Machines and Automotive electrical systems and Oil field equipment for A to D readout . . .
 
+Remember:Use the science method for trouble shooting or dianostics. You can find the 7 steps for science method in the ATS Wiki.
+
 Warrant disclaimer:This page is subject to update, change or upgrade soon.
 
 Anyone or any organization can use the BFMI agreement, so just copy and paste it in or on your code, program, or work or works. For instance:
